@@ -1,5 +1,5 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<img align='right' src='https://gifer.com/en/40OT' width='200"'>
+<img align='right' src="https://giphy.com/stickers/turtle-makeitrain-dollar-bills-AwyZ1ULV2idDqlbNb5" width='200"'>
 I'm Sandra 😃. I'm currently studying Computer Science at Cracow University of Technology 🐸
 
 <!--
