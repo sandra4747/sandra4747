@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Sandra
-### Computer Science student at Cracow University of Technology 🐸
+Computer Science student at Cracow University of Technology 🐸
 
 <!--
 **sandra4747/sandra4747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
