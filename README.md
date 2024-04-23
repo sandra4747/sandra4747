@@ -1,5 +1,4 @@
 ### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! 👋
-![gif](https://gifer.com/en/40OT)
 I'm Sandra 😃. I'm currently studying Computer Science at Cracow University of Technology 🐸
 
 <!--
