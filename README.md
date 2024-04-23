@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! <img src="https://media.tenor.com/qKGlaYl2DqMAAAAi/gif-de-sauda%C3%A7%C3%A3o.gif" width="30px"></h2>
 <img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJveHIxNzl2dmRkaWRiYzg2MTlzdW43aXo4ZTc3MWI4NDJpNmg4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AwyZ1ULV2idDqlbNb5/giphy.gif" width='150'>
 I'm Sandra 😃. I'm currently studying Computer Science at Cracow University of Technology 🐸
 
